@@ -1,1 +1,1 @@
-# Weather-App-using-Openweathermap-API-Javascript---Responsive-Website
+# Weather-App-using-Openweathermap-API-Javascript
